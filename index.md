@@ -1,7 +1,6 @@
-<center><font size="+3">Welcome to the Alberto Valencia's User Page</font>
-</center>
+# Welcome to the Alberto Valencia's User Page
 
-![Alberto](/portrait.JPG)
+![alberto valencia](/portrait.JPG)
 
 ## ABOUT ME
 *Hello, my name is `Alberto Valencia`. I am a junior, majoring in  Mathematics-Computer Science. In my free time, I enjoy being active whether that be a sport, hiking, or going to the gym. I also enjoy attending church and practicing my Christian faith. Recently, I have been helping at a food pantry at a local church and have enjoyed providing food to low-income families. Additionally, I enjoy spending time with friends, watching baseball, going to the beach, and trying new foods. Academically, as can be inferred by my major, I enjoy both Mathematics and Computer Science. I hope to use the skills I learn from my time at UCSD to become a software engineer, but more importantly, I hope to teach students from low-income areas to code. I understand the difficulty students from socioeconomically disadvantaged communities face in pursuing STEM at a higher level so I hope to help students who desire to learn programming to do so.*
