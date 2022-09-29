@@ -33,4 +33,3 @@
 
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/alberto-valencia-241835200)
-and [Email](alvalenc@ucsd.edu)
