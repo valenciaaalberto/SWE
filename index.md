@@ -29,7 +29,7 @@
 3. Start a programming project
 
 ## A little bit about my dog
- [Here is her user page](dog.md)
+ [Here is my dog's user page](dog.md)
 
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/alberto-valencia-241835200)
