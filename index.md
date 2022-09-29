@@ -1,5 +1,4 @@
-<center><font size="+3">Welcome to the Alberto Valencia's User Page</font>
-</center>
+# Welcome to the Alberto Valencia's User Page
 
 ![Alberto](/portrait.JPG)
 

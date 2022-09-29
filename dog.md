@@ -1,5 +1,5 @@
-<center><font size="+3">WOOF!</font>
-</center>
+# WOOF
+
 
 ![Aleu](/dog.jpg)
 
