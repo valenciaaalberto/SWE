@@ -23,6 +23,7 @@
 - [ ] Travel to Europe
 - [ ] Travel to Brazil
 - [ ] Go on a missions trip
+- [ ] Go cliff jumping
 
 ## Goals for Fall Quarter
 1. Read bible and attend fellowship events

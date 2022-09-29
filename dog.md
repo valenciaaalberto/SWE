@@ -9,5 +9,6 @@
 - my favorite snack is a banana
 - I sleep the majority of the day
 - I do not like vegetables unless it's on pizza
+- I do not like being outside
 
 [Back to the main page](index.md)
