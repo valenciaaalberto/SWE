@@ -22,6 +22,7 @@
 - [ ] Go to a World Series game
 - [ ] Travel to Europe
 - [ ] Travel to Brazil
+- [ ] Go on a missions trip
 
 ## Goals for Fall Quarter
 1. Read bible and attend fellowship events
