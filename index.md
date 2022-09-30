@@ -11,6 +11,7 @@
    - Ping Pong
    - Racquetball
    - Pickle Ball
+   - Spike Ball
 
 ## Sports I enjoy to watch
    - Soccer
@@ -22,6 +23,8 @@
 - [ ] Go to a World Series game
 - [ ] Travel to Europe
 - [ ] Travel to Brazil
+- [ ] Go on a missions trip
+- [ ] Go cliff jumping
 
 ## Goals for Fall Quarter
 1. Read bible and attend fellowship events
@@ -29,8 +32,7 @@
 3. Start a programming project
 
 ## A little bit about my dog
- [Here is her user page](dog.md)
+ [Here is my cute dog's user page](dog.md)
 
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/alberto-valencia-241835200)
-and [Email](alvalenc@ucsd.edu)
