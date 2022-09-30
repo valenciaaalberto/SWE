@@ -1,5 +1,13 @@
 # Welcome to the Alberto Valencia's User Page
-
+## Table of contents
+- To learn about me click [here](#about-me)
+- To learn about my favorite sports click [here](#sports-i-enjoy-to-play)
+ - To learn about the sports I enjoy to watch click [here](#sports-i-enjoy-to-watch)
+ - To learn about the sports I enjoy to play click [here](#sports-i-enjoy-to-play)
+- To learn about the adventures I hope to take [here](#a-few-adventures-i-hope-to-do-in-life)
+- To learn about my goals this quarter [here](#goals-for-fall-quarter)
+- To see my cute/ugly dog click [here](#a-few-adventures-i-hope-to-do-in-life)
+- And finally, to connect with me click [here](#connect-with-me)
 ![alberto valencia](/portrait.JPG)
 
 ## ABOUT ME
