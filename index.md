@@ -11,6 +11,7 @@
    - Ping Pong
    - Racquetball
    - Pickle Ball
+   - Spike Ball
 
 ## Sports I enjoy to watch
    - Soccer

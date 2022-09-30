@@ -10,5 +10,6 @@
 - I sleep the majority of the day
 - I do not like vegetables unless it's on pizza
 - I do not like being outside
+- I do not like sleeping alone
 
 [Back to the main page](index.md)
